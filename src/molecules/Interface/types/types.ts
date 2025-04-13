@@ -1,0 +1,1 @@
+export type InterfaceStatus = "UNREACHABLE" | "SHUTDOWN" | "UP" | "WARNING" | "CRITICAL" | "DOWN" | "Нет информации";

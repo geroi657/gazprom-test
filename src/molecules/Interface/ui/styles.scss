@@ -1,0 +1,21 @@
+.Interface{
+  display: flex;
+  color: #313131;
+}
+
+.InterfaceName, .InterfaceStatus{
+  width: 33%;
+  text-align: center;
+  color: #313131;
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.StatusLightContainer{
+  width: 33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

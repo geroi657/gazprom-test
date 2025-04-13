@@ -1,0 +1,18 @@
+.GroupButton{
+  width: 100%;
+  text-align: left;
+  display: block;
+  color: #313131;
+  border-bottom: 2px #00000010 solid;
+  padding: 20px 16px 20px 16px;
+  font-size: 20px;
+  font-weight: 600;
+
+  &:hover{
+    background-color: #31313150;
+  }
+
+  &:disabled{
+    background-color: #b6b6b6;
+  }
+}

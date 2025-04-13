@@ -1,0 +1,38 @@
+.Metrics{
+  max-height: 250px;
+}
+
+.Filters{
+  width: 50%;
+  border-radius: 10px;
+  border: 2px solid #8f8f8f;
+  background-color: #cccccc;
+  margin: 18px auto 18px auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.Filter{
+  color: #313131;
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding: 10px;
+
+  &:hover{
+    background-color: #b1b1b1;
+  }
+}
+
+.MetricsContainer{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.FilterP{
+  padding-right: 1rem;
+  color: #313131;
+  font-size: 1rem;
+  font-weight: 500;
+  border-right: 2px solid #8f8f8f;
+}
